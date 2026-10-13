@@ -57,7 +57,7 @@ Key analysis:
 ✅ Discount impact  
 
 Repository:
-(Add your project link here)
+https://github.com/farhanhasanali/retail-sales-analysis-excel-dashboard
 
 ---
 
